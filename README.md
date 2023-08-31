@@ -41,9 +41,22 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+
+## Screenshots
+
+![Alt text](<Assets/J.A.T.E 01.png>)
+![Alt text](<Assets/J.A.T.E 02.png>)
+![Alt text](<Assets/J.A.T.E 03.png>)
+![Alt text](<Assets/J.A.T.E 04.png>)
 ## Links
 
+https://mahmud-deep.github.io/Word-processor/
 
+https://github.com/Mahmud-deep/Word-processor
+
+🚀The application has been deployed to Heroku
+
+https://jate-word-processor-d52ed21e5cd2.herokuapp.com/
 
 ## Rivews
 
